@@ -27,7 +27,14 @@ const checkVersion = async () => {
     if (semver.compare(currentVersion, latestVersion) === -1) {
       console.log(
         red(
-          `当前CLI版本为${currentVersion}，最新版本为${latestVersion}，请尽快安装最新版本。\n安装指令: npm i -g serverless-cloud-framework\n`
+          `当前CLI版本为${currentVersion}，最新版本为${latestVersion}，请尽快安装最新版本。\n安装指令: npm i -g dm-cli\n`
+        )
+      );
+    }
+    if (semver.compare(currentVersion, latestVersion) === 1) {
+      console.log(
+        red(
+          '请检查CLI版本'
         )
       );
     }
