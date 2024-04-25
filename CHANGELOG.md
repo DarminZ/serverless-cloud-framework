@@ -1,3 +1,10 @@
+## [1.1.2](http://git.woa.com/darminzhou/serverless-tencent/compare/v1.1.1...v1.1.2) (2024-04-25)
+
+
+### Bug Fixes
+
+* cli version note match package json ([d006160](http://git.woa.com/darminzhou/serverless-tencent/commit/d0061600c1d9d6931538bf5ef116831d2c9495ab))
+
 ## [1.1.1](http://git.woa.com/darminzhou/serverless-tencent/compare/v1.1.0...v1.1.1) (2024-04-25)
 
 
