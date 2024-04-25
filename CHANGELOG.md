@@ -1,3 +1,10 @@
+## [1.0.1](http://git.woa.com/darminzhou/serverless-tencent/compare/v1.0.0...v1.0.1) (2024-04-25)
+
+
+### Bug Fixes
+
+* 官方源安装不了内部npm包 ([4ac6f23](http://git.woa.com/darminzhou/serverless-tencent/commit/4ac6f23b4ebd44801c5cc06bdeb80f15388feaa8))
+
 # 1.0.0 (2024-04-25)
 
 
