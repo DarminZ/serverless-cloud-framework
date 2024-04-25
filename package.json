@@ -42,7 +42,7 @@
         }
       ],
       [
-        "@tencent/semantic-release-tgit",
+        "@tencent/semantic-release-tgit-z",
         {
           "assets": [
             {
@@ -118,7 +118,7 @@
     "@semantic-release/changelog": "5.0.1",
     "@semantic-release/git": "9.0.0",
     "@semantic-release/gitlab": "^6.0.3",
-    "@tencent/semantic-release-tgit": "^1.2.3",
+    "@tencent/semantic-release-tgit-z": "^1.2.3",
     "semantic-release": "^17.4.7",
     "cos-nodejs-sdk-v5": "^2.11.3",
     "eslint": "^8.0.0",
