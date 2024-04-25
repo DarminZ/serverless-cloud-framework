@@ -4,7 +4,6 @@
   "description": "Serverless Tencent command line tool",
   "main": "./dist/index.js",
   "author": "Tencent Cloud, Inc.",
-  "repository": "git@git.woa.com:darminzhou/serverless-tencent.git",
   "bin": {
     "dmscf": "./bin/serverless-cloud-framework"
   },
