@@ -76,12 +76,3 @@ _serverless-cloud-framework_ 是一个包容友好的开源项目，欢迎不同
 
 1. 我们的单元测试代码位于 `tests/` 目录之下，使用[jest](https://jestjs.io/) 作为测试工具，`npm run test` 运行所有的单元测试
 2. 您需要为你提交的功能代码补充对应的单元测试, 并且不可以破坏已有的其他模版对应的单元测试。 这是我们保证*serverless-cloud-framework* 代码健壮性的基本条件
-
-### Canary 测试版本
-
-提交代码到 `master` 分支，合并之后会自动发布项目的 `canary` 版本，可以通过 `npm i -g serverless-cloud-framework@canary` 安装测试
-
-### 发布正式版本
-
-1. 功能完成之后，需要修改 `package.json/version` 字段以及在 `CHANGELOG.md` 中写明更新日志
-2. 提交代码到 `master`, 合并之后自动发布正式版本
