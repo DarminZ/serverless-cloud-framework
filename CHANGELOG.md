@@ -1,3 +1,10 @@
+# [1.1.0](http://git.woa.com/darminzhou/serverless-tencent/compare/v1.0.1...v1.1.0) (2024-04-25)
+
+
+### Features
+
+* version ([17613dd](http://git.woa.com/darminzhou/serverless-tencent/commit/17613dd771a86379110a61a9ae20340ebd76262f))
+
 ## [1.0.1](http://git.woa.com/darminzhou/serverless-tencent/compare/v1.0.0...v1.0.1) (2024-04-25)
 
 
