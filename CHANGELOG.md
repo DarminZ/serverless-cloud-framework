@@ -1,3 +1,10 @@
+## [1.1.3](http://git.woa.com/darminzhou/serverless-tencent/compare/v1.1.2...v1.1.3) (2024-04-25)
+
+
+### Bug Fixes
+
+* again ([c007adb](http://git.woa.com/darminzhou/serverless-tencent/commit/c007adb38401c84f74db67be9385c2e1fa73a53c))
+
 ## [1.1.2](http://git.woa.com/darminzhou/serverless-tencent/compare/v1.1.1...v1.1.2) (2024-04-25)
 
 
