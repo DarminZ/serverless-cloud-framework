@@ -32,7 +32,8 @@
         "name": "dev",
         "channel": "beta",
         "prerelease": "beta"
-      }
+      },
+      "next"
     ],
     "plugins": [
       "@semantic-release/commit-analyzer",
