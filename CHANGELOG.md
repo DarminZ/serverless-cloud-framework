@@ -1,3 +1,10 @@
+# [1.2.0-beta.3](darminzhou/serverless-tencent/compare/v1.2.0-beta.2...v1.2.0-beta.3) (2024-04-29)
+
+
+### Bug Fixes
+
+* no host ([48c6557](darminzhou/serverless-tencent/commit/48c6557bf1036cd2232545b7b4e30cb6b75defa8))
+
 # [1.2.0-beta.2](//darminzhou/serverless-tencent/compare/v1.2.0-beta.1...v1.2.0-beta.2) (2024-04-29)
 
 
