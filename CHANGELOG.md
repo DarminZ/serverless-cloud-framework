@@ -13,6 +13,21 @@
 * test dev ([d0e1553](///darminzhou/serverless-tencent/commit/d0e1553ff5453692841e740720bd7722359969fc))
 * testtest ([f49c936](///darminzhou/serverless-tencent/commit/f49c936c0ab2711ddeddc50f91876f3a2d13ff13))
 
+# [1.2.0-beta.1](///darminzhou/serverless-tencent/compare/v1.1.3...v1.2.0-beta.1) (2024-04-29)
+
+
+### Bug Fixes
+
+* dev 2 beta ([9f440f9](///darminzhou/serverless-tencent/commit/9f440f95f5658515f6eaaf4a3004e7e2ec31f532))
+* test ([65860d2](///darminzhou/serverless-tencent/commit/65860d299fceb14e2c16dbb74df6e8ef0274daa2))
+* test dev release to beta ([67ee8ac](///darminzhou/serverless-tencent/commit/67ee8ac0c7b6b82fdfa6f027c5c59c1331a42560))
+
+
+### Features
+
+* test dev ([d0e1553](///darminzhou/serverless-tencent/commit/d0e1553ff5453692841e740720bd7722359969fc))
+* testtest ([f49c936](///darminzhou/serverless-tencent/commit/f49c936c0ab2711ddeddc50f91876f3a2d13ff13))
+
 # [1.2.0-beta.1](http://git.woa.com/darminzhou/serverless-tencent/compare/v1.1.3...v1.2.0-beta.1) (2024-04-29)
 
 
