@@ -1,3 +1,10 @@
+# [1.2.0-dev.1](http://git.woa.com/darminzhou/serverless-tencent/compare/v1.1.3...v1.2.0-dev.1) (2024-04-29)
+
+
+### Features
+
+* test dev ([d0e1553](http://git.woa.com/darminzhou/serverless-tencent/commit/d0e1553ff5453692841e740720bd7722359969fc))
+
 ## [1.1.3](http://git.woa.com/darminzhou/serverless-tencent/compare/v1.1.2...v1.1.3) (2024-04-25)
 
 
