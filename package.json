@@ -40,7 +40,7 @@
       [
         "@semantic-release/release-notes-generator",
         {
-          "host": "/"
+          "host": ""
         }
       ],
       "@semantic-release/changelog",
