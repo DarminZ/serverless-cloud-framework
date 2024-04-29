@@ -30,7 +30,7 @@
       "master",
       {
         "name": "dev",
-        "prerelease": true
+        "prerelease": "beta"
       }
     ],
     "plugins": [
