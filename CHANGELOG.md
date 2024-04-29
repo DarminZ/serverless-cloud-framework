@@ -1,3 +1,10 @@
+# [1.2.0-dev.2](http://git.woa.com/darminzhou/serverless-tencent/compare/v1.2.0-dev.1...v1.2.0-dev.2) (2024-04-29)
+
+
+### Bug Fixes
+
+* dev 2 beta ([9f440f9](http://git.woa.com/darminzhou/serverless-tencent/commit/9f440f95f5658515f6eaaf4a3004e7e2ec31f532))
+
 # [1.2.0-dev.1](http://git.woa.com/darminzhou/serverless-tencent/compare/v1.1.3...v1.2.0-dev.1) (2024-04-29)
 
 
