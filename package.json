@@ -68,18 +68,6 @@
         }
       ],
       [
-        "@semantic-release/github",
-        {
-          "githubUrl": "https://github.com/DarminZ/serverless-cloud-framework.git",
-          "assets": [
-            {
-              "path": "dist/*",
-              "label": "npm distribution"
-            }
-          ]
-        }
-      ],
-      [
         "@semantic-release/exec",
         {
           "prepareCmd": "npm run build"
@@ -151,7 +139,6 @@
     "@semantic-release/changelog": "5.0.1",
     "@semantic-release/exec": "^5.0.0",
     "@semantic-release/git": "9.0.0",
-    "@semantic-release/github": "^7.2.3",
     "@serverless/eslint-config": "^4.0.0",
     "@tencent/semantic-release-tgit-z": "^1.2.3",
     "cos-nodejs-sdk-v5": "^2.11.3",
