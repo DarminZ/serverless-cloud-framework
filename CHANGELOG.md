@@ -1,3 +1,10 @@
+# 1.2.0-beta.6 (2024-05-06)
+
+
+### Bug Fixes
+
+* test no npm token c05563a
+
 # 1.2.0-beta.5 (2024-05-06)
 
 
