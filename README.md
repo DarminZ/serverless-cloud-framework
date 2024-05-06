@@ -1,13 +1,12 @@
-# serverless-cloud-framework
-
-<!-- [![Build Status](https://github.com/serverless/serverless/workflows/Integrate/badge.svg)](https://github.com/serverless/serverless/actions?query=workflow%3AIntegrate) -->
-<!-- [![npm version](https://badge.fury.io/js/serverless.svg)](https://badge.fury.io/js/serverless) -->
-<!-- [![codecov](https://codecov.io/gh/serverless/serverless/branch/master/graph/badge.svg)](https://codecov.io/gh/serverless/serverless) -->
-<!-- [![Known Vulnerabilities](https://snyk.io/test/github/serverless/serverless/badge.svg)](https://snyk.io/test/github/serverless/serverless) -->
-<!-- [![license](https://img.shields.io/npm/l/serverless.svg)](https://www.npmjs.com/package/serverless) -->
+# darmin-cli
 
 <p align="center">
-  <a href="https://cloud.tencent.com/document/product/1154/38787">🇨🇳 中文网站</a> •
+  <a href="https://cloud.tencent.com/document/product/1154/38787">🇨🇳 中文网站</a>
+</p>
+<p align="center">
+  <a href="https://www.npmjs.com/package/darmin-cli">
+    <img alt="npm next version" src="https://img.shields.io/npm/v/darmin-cli/latest.svg">
+  </a>
 </p>
 
 ## 目录
